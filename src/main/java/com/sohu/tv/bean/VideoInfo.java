@@ -3,7 +3,7 @@ package com.sohu.tv.bean;
 import java.io.Serializable;
 
 /**
- * 视频信息
+ * 视频基本信息
  * @author leifu
  * @Date 2016-2-4
  * @Time 下午4:34:20
